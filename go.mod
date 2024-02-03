@@ -7,12 +7,10 @@ require (
 	github.com/containers/image/v5 v5.29.2
 	github.com/containers/podman/v4 v4.9.2
 	github.com/containers/storage v1.51.0
-	github.com/hashicorp/go-multierror v1.1.1
 	github.com/sirupsen/logrus v1.9.3
 	github.com/spf13/cobra v1.8.0
 	github.com/spf13/pflag v1.0.5
 	github.com/spf13/viper v1.18.2
-	github.com/stretchr/testify v1.8.4
 	golang.org/x/term v0.16.0
 	sigs.k8s.io/yaml v1.4.0
 )
@@ -108,6 +106,7 @@ require (
 	github.com/gorilla/schema v1.2.0 // indirect
 	github.com/hashicorp/errwrap v1.1.0 // indirect
 	github.com/hashicorp/go-cleanhttp v0.5.2 // indirect
+	github.com/hashicorp/go-multierror v1.1.1 // indirect
 	github.com/hashicorp/go-retryablehttp v0.7.5 // indirect
 	github.com/hashicorp/hcl v1.0.0 // indirect
 	github.com/hugelgupf/p9 v0.3.1-0.20230822151754-54f5c5530921 // indirect
