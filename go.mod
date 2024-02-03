@@ -1,4 +1,4 @@
-module github.com/virzz/podman
+module github.com/virzz/podmanx
 
 go 1.21.6
 
